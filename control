@@ -1,0 +1,9 @@
+Package: com.wolf.iosqqhook
+Name: iosqqhook
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: hook ios qqV769
+Maintainer: greywolf
+Author: greywolf
+Section: Tweaks
